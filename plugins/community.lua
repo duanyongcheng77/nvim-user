@@ -11,6 +11,5 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.vue" },
-  { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.tailwindcss" },
 }
