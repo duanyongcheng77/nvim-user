@@ -4,5 +4,5 @@ return {
     "Weissle/persistent-breakpoints.nvim",
     keys = function() return {} end,
   },
-  -- { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
+  { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
 }
